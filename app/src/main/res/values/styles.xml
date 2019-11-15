@@ -9,7 +9,7 @@
     </style>
 
     <style name="NameStyle">
-        <item name="android:fontFamily">@font/Roboto</item>
+        <item name="android:fontFamily">@font/ubuntu_light</item>
         <item name="android:padding">@dimen/small_padding</item>
         <item name="android:textSize">@dimen/text_size</item>
     </style>
